@@ -1,0 +1,39 @@
+/* color */
+.font-white {
+	color: rgba(255, 255, 255, 1);
+}
+
+.btn-gray {
+	color: dimgray;
+}
+
+/* font size */
+.font-large {
+	font-size: 2em;
+}
+
+/* specific layout */
+.sunset {
+	background-color: rgb(129, 158, 255);
+	background-image: url("../images/yuu0025-009.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.create-btn {
+	color: rgba(255, 255, 255, 1);
+	background-color: rgba(97, 119, 190, 0.8);
+	border: solid 0px;
+	border-radius: 5px;
+}
+
+.border-solid-0 {
+	border: solid 0px;
+}
+
+.task {
+	background-color: rgba(255, 255, 255, 1);
+	border: solid 0px;
+	border-radius: 5px;
+}
